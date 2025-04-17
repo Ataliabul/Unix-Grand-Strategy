@@ -1,5 +1,5 @@
 # Bash-Grand-Strategy
-🇬🇧 English
+🇬🇧 English:
 TerminalConqueror
 
 A Grand Strategy Game in Bash (Inspired by AoH3, HOI4, and Risk!)
@@ -29,7 +29,7 @@ chmod +x TerminalConqueror.sh
 
     Anyone who loves retro-style strategy games!
 
-🇷🇺 Русский
+🇷🇺 Русский:
 TerminalConqueror
 
 Гранд-стратегия в терминале (Вдохновлено AoH3, HOI4 и Risk!)
