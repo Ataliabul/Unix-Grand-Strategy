@@ -14,12 +14,6 @@ Features
 ✔ Diplomacy system (alliances, wars, betrayals)
 ✔ Simple yet deep gameplay (easy to learn, hard to master)
 ✔ Save/Load functionality
-How to Play?
-bash
-Copy
-
-chmod +x TerminalConqueror.sh
-./TerminalConqueror.sh
 
 📌 Perfect for:
 
@@ -44,12 +38,6 @@ TerminalConqueror
 ✔ Система дипломатии (союзы, войны, предательства)
 ✔ Простота и глубина (легко начать, сложно освоить)
 ✔ Сохранение/загрузка игры
-Как запустить?
-bash
-Copy
-
-chmod +x TerminalConqueror.sh
-./TerminalConqueror.sh
 
 📌 Для кого игра?
 
