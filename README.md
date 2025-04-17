@@ -1,5 +1,4 @@
 # Bash-Grand-Strategy
-TerminalConqueror
 🇬🇧 English
 TerminalConqueror
 
