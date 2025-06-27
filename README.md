@@ -1,4 +1,4 @@
-# Bash-Grand-Strategy
+# Bash-Grand-Strategy 2.0
 🇬🇧 English:
 TerminalConqueror
 
@@ -24,7 +24,7 @@ Features
     Anyone who loves retro-style strategy games!
 
 🇷🇺 Русский:
-TerminalConqueror
+TerminalConqueror 2.0
 
 Гранд-стратегия в терминале (Вдохновлено AoH3, HOI4 и Risk!)
 
