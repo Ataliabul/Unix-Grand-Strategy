@@ -1,16 +1,4 @@
 # Unix Grand Strategy / Гранд-стратегия в UNIX-стиле
-  ,       ,  
-   /(        )`  
-   \ \___   / |  
-   /- _  `-/  '  
-  (/\/ \ \   /\  
-  / /   | `    \  
-  O O   ) /    |  
-  `-^--'`<     '  
- (_.)  _  )   /  
-  `.___/`    /  
-    `-----' / 
-
 **🇬🇧 English Version**  
 **A True Cross-Platform Terminal Masterpiece**  
 
