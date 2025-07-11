@@ -1,12 +1,12 @@
-# Bash-Grand-Strategy 2.0
+# SH-Grand-Strategy 2.0
 🇬🇧 English:
 TerminalConqueror
 
-A Grand Strategy Game in Bash (Inspired by AoH3, HOI4, and Risk!)
+A Grand Strategy Game in SH (Inspired by AoH3, HOI4, and Risk!)
 
 🌍 Lead your nation to dominance in a terminal-based world!
 ⚔️ Conquer territories, manage diplomacy, and develop technology.
-🖥️ Pure Bash – no dependencies, just copy & play!
+🖥️ Pure SH – no dependencies, just copy & play!
 Features
 
 ✔ ASCII-art world map with dynamically generated territories
@@ -30,7 +30,7 @@ TerminalConqueror 2.0
 
 🌍 Ведите свою нацию к мировому господству прямо в терминале!
 ⚔️ Завоёвывайте территории, управляйте экономикой и развивайте технологии.
-🖥️ Чистый Bash – без зависимостей, просто скопируй и играй!
+🖥️ Чистый SH – без зависимостей, просто скопируй и играй!
 Особенности
 
 ✔ Генерация карты в ASCII-графике
