@@ -1,4 +1,4 @@
-# SH-Grand-Strategy 2.0
+# SH-Grand-Strategy
 🇬🇧 English:
 TerminalConqueror
 
@@ -24,7 +24,7 @@ Features
     Anyone who loves retro-style strategy games!
 
 🇷🇺 Русский:
-TerminalConqueror 2.0
+TerminalConqueror 
 
 Гранд-стратегия в терминале (Вдохновлено AoH3, HOI4 и Risk!)
 
