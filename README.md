@@ -13,7 +13,7 @@
   - Technology tree and diplomacy
 
 ## 🚀 Why It's Unique
-- **410 lines** of battle-tested code (fits on one VT220 screen)
+- **408 lines** of battle-tested code (fits on one VT220 screen)
 - **Zero Dependencies**: Not even Bash required!
 - **Real UNIX Philosophy**: Does one thing (world domination) well
 
@@ -49,7 +49,7 @@
   - Развитие технологий и дипломатия
 
 ## 🚀 Почему это уникально
-+ **410 строк** кода - меньше чем багов в HOI4
++ **408 строк** кода - меньше чем багов в HOI4
 + **Ноль зависимостей**: Даже Bash не нужен!
 + **Философия UNIX**: Делает одно дело (захват мира) идеально
 
