@@ -21,6 +21,7 @@
 - Hearts of Iron fans tired of 50GB updates
 - Linux admins during compile jobs
 - BSD enthusiasts preserving computing heritage
++ ✔ Tested on FreeBSD, NetBSD, OpenBSD, Debian, Ubuntu, Arch, Manjaro, and other distros.
 
 **🇷🇺 Русская Версия**  
 
@@ -52,6 +53,7 @@
 + **408 строк** кода - меньше чем багов в HOI4
 + **Ноль зависимостей**: Даже Bash не нужен!
 + **Философия UNIX**: Делает одно дело (захват мира) идеально
+✔ Проверено на FreeBSD, NetBSD, OpenBSD, Debian, Ubuntu, Arch, Manjaro и других дистрибутивах.
 
 ## 💻 Для кого:
 - Фанатов стратегий, уставших от 50ГБ обновлений
