@@ -1,4 +1,9 @@
 # Unix Grand Strategy / Гранд-стратегия в UNIX-стиле
+
+Attention! I will not update this project in the near future because I will be busy with my other project Windows-Grand-Strategy.
+
+Внимание! Я не буду обновлять этот проект в ближайшее время, так как буду занят другим своим проектом Windows-Grand-Strategy.
+
 **🇬🇧 English Version**  
 **A True Cross-Platform Terminal Masterpiece**  
 
